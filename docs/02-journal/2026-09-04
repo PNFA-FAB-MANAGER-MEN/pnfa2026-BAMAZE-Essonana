@@ -1,0 +1,30 @@
+# Journal — Vendredi 4 septembre 2026 (rédigé par : BAMAZE Essonana)
+
+## Fait aujourd'hui
+
+- debut de simulation du projet: detecteur de gaz dans une cantine scolaire
+- Initialion à la programmation python
+
+## Les appris du jour
+
+### initiation à la programmation python
+- comment comprendre le langage python
+- langage lisible
+- plyvalence
+- interprèté
+- gratuit et open-source
+- Langages de programation 
+### Python en Fablabs
+l'usage du python dans les fablabs servent principalement à programmer des microcontroleurs, piloter les robots et initier le public aux code de matière (automatiser une machine, traiter les données)
+
+### syntax de langage
+- les listes
+> ma liste=["togo","benin","ghana"]
+- les tuples: ils permettent de faire des affectations multiple
+> ma_tuple("togo","benin","ghana")
+- les decimaires
+> dics
+
+## Logiciel utilisé :
+- Python
+- Thonny
